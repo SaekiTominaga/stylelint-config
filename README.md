@@ -1,7 +1,7 @@
 # stylelint-config-w0s
 
 [![npm version](https://badge.fury.io/js/stylelint-config-w0s.svg)](https://badge.fury.io/js/stylelint-config-w0s)
-[![Build Status](https://github.com/SaekiTominaga/stylelint-config-w0s/actions/workflows/test.yml/badge.svg)](https://github.com/SaekiTominaga/stylelint-config-w0s/actions/workflows/test.yml)
+[![test Status](https://github.com/SaekiTominaga/stylelint-config-w0s/actions/workflows/test.yml/badge.svg)](https://github.com/SaekiTominaga/stylelint-config-w0s/actions/workflows/test.yml)
 
 stylelint configuration file used on [w0s.jp](https://w0s.jp/)
 
