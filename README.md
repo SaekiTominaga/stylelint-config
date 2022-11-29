@@ -1,7 +1,7 @@
-# stylelint-config-w0s
+# stylelint-config
 
-[![npm version](https://badge.fury.io/js/stylelint-config-w0s.svg)](https://badge.fury.io/js/stylelint-config-w0s)
-[![test Status](https://github.com/SaekiTominaga/stylelint-config-w0s/actions/workflows/test.yml/badge.svg)](https://github.com/SaekiTominaga/stylelint-config-w0s/actions/workflows/test.yml)
+[![npm version](https://badge.fury.io/js/%40w0s%2Fstylelint-config.svg)](https://www.npmjs.com/package/@w0s/stylelint-config)
+[![test status](https://github.com/SaekiTominaga/stylelint-config/actions/workflows/test.yml/badge.svg)](https://github.com/SaekiTominaga/stylelint-config/actions/workflows/test.yml)
 
 stylelint configuration file used on [w0s.jp](https://w0s.jp/)
 
@@ -14,6 +14,6 @@ stylelint configuration file used on [w0s.jp](https://w0s.jp/)
 
 ```json
 {
-  "extends": ["stylelint-config-w0s"]
+  "extends": ["@w0s/stylelint-config"]
 }
 ```

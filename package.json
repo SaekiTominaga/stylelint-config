@@ -1,14 +1,14 @@
 {
-	"name": "stylelint-config-w0s",
+	"name": "@w0s/stylelint-config",
 	"version": "1.0.1",
 	"description": "stylelint configuration file used on w0s.jp",
 	"keywords": [
 		"stylelint",
 		"stylelint-config"
 	],
-	"homepage": "https://github.com/SaekiTominaga/stylelint-config-w0s#readme",
+	"homepage": "https://github.com/SaekiTominaga/stylelint-config#readme",
 	"bugs": {
-		"url": "https://github.com/SaekiTominaga/stylelint-config-w0s/issues"
+		"url": "https://github.com/SaekiTominaga/stylelint-config/issues"
 	},
 	"license": "MIT",
 	"author": "Saeki Tominaga",
@@ -18,7 +18,7 @@
 	"main": ".stylelintrc",
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/SaekiTominaga/stylelint-config-w0s.git"
+		"url": "git+https://github.com/SaekiTominaga/stylelint-config.git"
 	},
 	"scripts": {
 		"test": "stylelint __tests__/*.css"
